@@ -1,0 +1,6 @@
+{
+  "name": "Super App",
+  "description": "A comprehensive movie discovery onboarding, dashboard, and movie discovery portal featuring real-time weather and customized feeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
